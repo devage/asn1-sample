@@ -1,0 +1,7 @@
+MyModule DEFINITIONS AUTOMATIC TAGS ::=
+BEGIN
+MySequence ::= SEQUENCE {
+	id        INTEGER,
+	name      UTF8String
+}
+END
