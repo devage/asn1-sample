@@ -28,4 +28,4 @@ iex> Asn1Example.encode_my_sequence(1, "John Doe")
 ```
 ## Link
 
-- Github [https://devage.info/102/](https://devage.info/102/)
+- devage.inf(blog) [https://devage.info/102/](https://devage.info/102/)
